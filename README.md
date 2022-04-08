@@ -8,7 +8,7 @@ It is completed and works, it is a console application so it is not that shiny.
 ## Code style
 C#
 ## Screenshots
-![](images/rpg.png)
+![](images/rps.png)
 ## Tech/framework used
 (IDE) Used for this project was 'Visual Studio 2019'.
 ## How to use?
