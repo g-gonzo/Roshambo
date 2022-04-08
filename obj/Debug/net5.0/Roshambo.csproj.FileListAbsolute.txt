@@ -1,0 +1,16 @@
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\Roshambo.exe
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\Roshambo.deps.json
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\Roshambo.runtimeconfig.json
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\Roshambo.runtimeconfig.dev.json
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\Roshambo.dll
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\ref\Roshambo.dll
+C:\Users\gigonz\source\repos\Roshambo\bin\Debug\net5.0\Roshambo.pdb
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.csproj.AssemblyReference.cache
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.AssemblyInfoInputs.cache
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.AssemblyInfo.cs
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.csproj.CoreCompileInputs.cache
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.dll
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\ref\Roshambo.dll
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.pdb
+C:\Users\gigonz\source\repos\Roshambo\obj\Debug\net5.0\Roshambo.genruntimeconfig.cache
